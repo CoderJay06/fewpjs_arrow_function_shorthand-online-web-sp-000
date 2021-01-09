@@ -4,3 +4,5 @@ const divide = () => {
 };
 
 const square = (num) => num ** 2;
+
+const add = ()
